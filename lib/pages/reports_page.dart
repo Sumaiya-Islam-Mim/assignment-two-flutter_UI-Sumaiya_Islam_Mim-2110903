@@ -1,0 +1,1 @@
+class ReportsPage extends StatelessWidget
